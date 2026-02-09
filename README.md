@@ -18,12 +18,7 @@
 
 ## 🚀 Навыки и технологии
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/C++-17-blue?style=flat-square&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Elasticsearch-v7.10.0-orange?style=flat-square&logo=elasticsearch" />
-  <img src="https://img.shields.io/badge/Docker-%E2%9C%94-success?style=flat-square&logo=docker" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square&logo=c%2B%2B" /> <img src="https://img.shields.io/badge/Django-v3.2-brightgreen?style=flat-square&logo=django" /> <img src="https://img.shields.io/badge/Django%20REST%20Framework-v3.12%2B-blue?style=flat-square&logo=django" /> <img src="https://img.shields.io/badge/FastAPI-v0.70.0-green?style=flat-square&logo=fastapi" /> <img src="https://img.shields.io/badge/SQLAlchemy-v1.4-blue?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Redis-%E2%9C%94-success?style=flat-square&logo=redis" /> <img src="https://img.shields.io/badge/Elasticsearch-v7.10-orange?style=flat-square&logo=elasticsearch" /> <img src="https://img.shields.io/badge/PostgreSQL-v12.3-blue?style=flat-square&logo=postgresql" /> <img src="https://img.shields.io/badge/Docker-Compose-blue?style=flat-square&logo=docker" /> <img src="https://img.shields.io/badge/Poetry-v1.5.0-blue?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Pytest-v6.2-green?style=flat-square&logo=pytest" /> <img src="https://img.shields.io/badge/Unittest-%E2%9C%94-orange?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Celery-v5.1.0-blue?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/asyncio-v3.4-blue?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/PyTelegramBotAPI-v3.8-blue?style=flat-square&logo=telegram" /> <img src="https://img.shields.io/badge/Secely-v1.0-blue?style=flat-square&logo=python" /> </p>
 
 ---
 
