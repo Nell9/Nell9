@@ -48,8 +48,7 @@
 ## 📊 Мои достижения
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nell9&show_icons=true&theme=dracula&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nell9&layout=compact&theme=dracula&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nell9&theme=dracula" alt="GitHub Stats" />
 </p>
 
 ---
