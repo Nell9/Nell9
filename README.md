@@ -60,7 +60,10 @@
 Сервис для поиска и управления контентом онлайн-кинотеатра с использованием **FastAPI** и **Django**.
 
 **Ключевые технологии**:  
-⚡ **FastAPI** ![FastAPI Badge](https://img.shields.io/badge/FastAPI-0077B6?style=for-the-badge&logo=fastapi&logoColor=white), 🖥 **Django** ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white), 🔍 **Elasticsearch** ![Elastic Badge](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white), 🚢 **Docker** ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+⚡ ![FastAPI Badge](https://img.shields.io/badge/FastAPI-0077B6?style=for-the-badge&logo=fastapi&logoColor=white),
+🖥 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white), 
+🔍 ![Elastic Badge](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white), 
+🚢 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
