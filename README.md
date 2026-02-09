@@ -56,17 +56,35 @@
 
 ## 💻 Проекты
 
-### 1. [**Cinema Service API**](https://github.com/Nell9/great_fast_api-django_mega_project)
+### 1. [**Cinema Service API**](https://github.com/Nell9/great_fast_api-django_mega_project) 🎬  
 Сервис для поиска и управления контентом онлайн-кинотеатра с использованием **FastAPI** и **Django**.
 
-### 2. [**COVID-19 Risk Assessment**](https://github.com/Nell9/neural-network-covid-19)
+**Ключевые технологии**:  
+⚡ **FastAPI** ![FastAPI Badge](https://img.shields.io/badge/FastAPI-0077B6?style=for-the-badge&logo=fastapi&logoColor=white), 🖥 **Django** ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white), 🔍 **Elasticsearch** ![Elastic Badge](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white), 🚢 **Docker** ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 2. [**COVID-19 Risk Assessment**](https://github.com/Nell9/neural-network-covid-19) 🏥  
 Система для прогнозирования летального исхода у пациентов с COVID-19 на основе их анамнеза, использующая **MLP** нейронные сети.
 
-### 3. [**Parallel Numerical Methods**](https://github.com/Nell9/mpi-method-simple-iteration)
+**Ключевые технологии**:  
+🧠 **MLP** нейронные сети ![MLP Badge](https://img.shields.io/badge/MLP-1D34A1?style=for-the-badge&logo=python&logoColor=white), 📊 **Scikit-Learn** ![Scikit-Learn Badge](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white), 🧪 **Pandas** ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), 🔬 **Data Science** ![Data Science Badge](https://img.shields.io/badge/Data%20Science-0080A6?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 3. [**Parallel Numerical Methods**](https://github.com/Nell9/mpi-method-simple-iteration) ⚡  
 Реализация метода простой итерации с использованием **MPI** для высокопроизводительных вычислений.
 
-### 4. [**Start Project Template**](https://github.com/Nell9/service_basic_template)
+**Ключевые технологии**:  
+💻 **C++** ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white), 🖧 **MPI** ![MPI Badge](https://img.shields.io/badge/MPI-FF69B4?style=for-the-badge&logo=python&logoColor=white), 🧮 **Numerical Methods** ![Numerical Methods Badge](https://img.shields.io/badge/Numerical%20Methods-28A745?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 4. [**Start Project Template**](https://github.com/Nell9/service_basic_template) 🚀  
 Базовая заготовка для Python-проекта с настроенным окружением, линтерами и форматированием кода.
+
+**Ключевые технологии**:  
+🐍 **Python** ![Python Badge](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white), ⚙️ **Poetry** ![Poetry Badge](https://img.shields.io/badge/Poetry-103C77?style=for-the-badge&logo=poetry&logoColor=white), 🧹 **Black** ![Black Badge](https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white), 🧑‍💻 **Pre-commit** ![Pre-commit Badge](https://img.shields.io/badge/Pre%20Commit-9E4F96?style=for-the-badge&logo=python&logoColor=white), 🔄 **Ruff** ![Ruff Badge](https://img.shields.io/badge/Ruff-7B56D1?style=for-the-badge&logo=ruff&logoColor=white)
 
 ---
 
