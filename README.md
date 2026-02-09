@@ -79,7 +79,7 @@
 ## 📬 Контакты
 
 - **Email**: [ego0777@gmail.com](mailto:ego0777@gmail.com)
-- **Twitter**: [@err_mirror](https://twitter.com/err_mirror)
+- **Telegram**: [@err_mirror](https://twitter.com/err_mirror)
 
 ---
 
