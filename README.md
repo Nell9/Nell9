@@ -1,16 +1,12 @@
-## Hi there 👋
+<div align="center">
+  <!-- Анимированный заголовок -->
+  <img src="https://capsule-render.vercel.app" />
+  
+  <!-- Эффект печатной машинки -->
+  <img src="https://readme-typing-svg.demolab.com" />
+</div>
 
-<!--
-**Nell9/Nell9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Обо мне
+Я занимаюсь разработкой на **Python** и **C++**. Мои интересы лежат в области машинного обучения, высокопроизводительных вычислений (MPI) и разработки надежных бэкенд-систем.
