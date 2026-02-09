@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="200" height="200" src="https://avatars.githubusercontent.com/u/107898560?v=4" alt="Egor Okhin" />
-</p>
-
 # Привет, я **Egor Okhin** (Nell9) 👋
 
 Приветствую в моем цифровом мире! 🌌
