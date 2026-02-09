@@ -71,7 +71,10 @@
 Система для прогнозирования летального исхода у пациентов с COVID-19 на основе их анамнеза, использующая **MLP** нейронные сети.
 
 **Ключевые технологии**:  
-🧠 **MLP** нейронные сети ![MLP Badge](https://img.shields.io/badge/MLP-1D34A1?style=for-the-badge&logo=python&logoColor=white), 📊 **Scikit-Learn** ![Scikit-Learn Badge](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white), 🧪 **Pandas** ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), 🔬 **Data Science** ![Data Science Badge](https://img.shields.io/badge/Data%20Science-0080A6?style=for-the-badge&logo=python&logoColor=white)
+![MLP Badge](https://img.shields.io/badge/MLP-1D34A1?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn Badge](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Data Science Badge](https://img.shields.io/badge/Data%20Science-0080A6?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -79,7 +82,9 @@
 Реализация метода простой итерации с использованием **MPI** для высокопроизводительных вычислений.
 
 **Ключевые технологии**:  
-💻 **C++** ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white), 🖧 **MPI** ![MPI Badge](https://img.shields.io/badge/MPI-FF69B4?style=for-the-badge&logo=python&logoColor=white), 🧮 **Numerical Methods** ![Numerical Methods Badge](https://img.shields.io/badge/Numerical%20Methods-28A745?style=for-the-badge&logo=python&logoColor=white)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MPI Badge](https://img.shields.io/badge/MPI-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![Numerical Methods Badge](https://img.shields.io/badge/Numerical%20Methods-28A745?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -87,7 +92,11 @@
 Базовая заготовка для Python-проекта с настроенным окружением, линтерами и форматированием кода.
 
 **Ключевые технологии**:  
-🐍 **Python** ![Python Badge](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white), ⚙️ **Poetry** ![Poetry Badge](https://img.shields.io/badge/Poetry-103C77?style=for-the-badge&logo=poetry&logoColor=white), 🧹 **Black** ![Black Badge](https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white), 🧑‍💻 **Pre-commit** ![Pre-commit Badge](https://img.shields.io/badge/Pre%20Commit-9E4F96?style=for-the-badge&logo=python&logoColor=white), 🔄 **Ruff** ![Ruff Badge](https://img.shields.io/badge/Ruff-7B56D1?style=for-the-badge&logo=ruff&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Poetry Badge](https://img.shields.io/badge/Poetry-103C77?style=for-the-badge&logo=poetry&logoColor=white)
+![Black Badge](https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white)
+![Pre-commit Badge](https://img.shields.io/badge/Pre%20Commit-9E4F96?style=for-the-badge&logo=python&logoColor=white)
+![Ruff Badge](https://img.shields.io/badge/Ruff-7B56D1?style=for-the-badge&logo=ruff&logoColor=white)
 
 ---
 
