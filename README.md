@@ -1,55 +1,72 @@
 <p align="center">
-  <img width="200" height="200" src="https://avatars.githubusercontent.com/u/107898560?v=4" alt="profile picture">
+  <img width="200" height="200" src="https://avatars.githubusercontent.com/u/107898560?v=4" alt="Egor Okhin" />
 </p>
 
-<h1 align="center">Привет, я <strong>Egor Okhin</strong> (Nell9) 👋</h1>
-<p align="center">Я разрабатываю крутые проекты с использованием <strong>Python</strong>, с опытом прикосновения к <em>C++</em> там, где нужна мощь 🛠️</p>
+# Привет, я **Egor Okhin** (Nell9) 👋
+
+Добро пожаловать на мой GitHub профиль! Я — разработчик, увлекающийся **Python**, с опытом работы с **C++**. В своих проектах я всегда стремлюсь создавать качественные и высокопроизводительные решения. Мои интересы охватывают широкий спектр технологий и областей, от веб-разработки до работы с данными.
 
 ---
 
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nell9&show_icons=true&theme=dracula&bg_color=0d1117" alt="GitHub Stats" />
+## 🚀 Навыки и технологии
 
-  <!-- Top Languages Card -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/C++-17-blue?style=flat-square&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Elasticsearch-v7.10.0-orange?style=flat-square&logo=elasticsearch" />
+  <img src="https://img.shields.io/badge/Docker-%E2%9C%94-success?style=flat-square&logo=docker" />
+</p>
+
+---
+
+## 📊 Мои достижения
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nell9&show_icons=true&theme=dracula&bg_color=0d1117" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nell9&layout=compact&theme=dracula&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
 
-## 🚀 Немного о моих проектах
+## 💻 Проекты
 
-Вот несколько репозиториев, которыми я особенно горжусь:
+### 1. [**Cinema Service API**](https://github.com/Nell9/great_fast_api-django_mega_project)
+Сервис для поиска и управления контентом онлайн-кинотеатра с использованием **FastAPI** и **Django**.
 
-### 💻 Инструменты и приложения на Python
-- **Project-1** — автоматизация и полезные инструменты, написанные на Python 🌟  
-- **Project-3** — анализ данных и ML-задачи с использованием pandas/numpy 📊
+### 2. [**COVID-19 Risk Assessment**](https://github.com/Nell9/neural-network-covid-19)
+Система для прогнозирования летального исхода у пациентов с COVID-19 на основе их анамнеза, использующая **MLP** нейронные сети.
 
-### ⚙️ Производительные проекты
-- **Project-2** — проект с ядром на **C++**, где Python выступает как помощник для тестов и скриптов 🧠
+### 3. [**Parallel Numerical Methods**](https://github.com/Nell9/mpi-method-simple-iteration)
+Реализация метода простой итерации с использованием **MPI** для высокопроизводительных вычислений.
 
-> 🔗 Чтобы подробнее узнать про проекты — загляни в мои [репозитории](https://github.com/Nell9)
-
----
-
-## 📈 Дополнительно
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nell9&color=brightgreen&style=flat-square)
-
-<p align="center">
-  <!-- Optional: GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Nell9&theme=dracula" alt="Trophies" />
-</p>
+### 4. [**Start Project Template**](https://github.com/Nell9/service_basic_template)
+Базовая заготовка для Python-проекта с настроенным окружением, линтерами и форматированием кода.
 
 ---
 
 ## 📬 Контакты
 
-📧 ego0777@gmail.com  
-🐦 [@err_mirror](https://twitter.com/err_mirror)
+- **Email**: [ego0777@gmail.com](mailto:ego0777@gmail.com)
+- **Twitter**: [@err_mirror](https://twitter.com/err_mirror)
 
 ---
 
 <p align="center">
   <em>Спасибо за посещение моего профиля! 🚀</em>
 </p>
+
+---
+
+## 🎯 Моя цель
+
+Продолжать развиваться в области программирования, решать интересные задачи и создавать полезные решения. Если вам интересно сотрудничество, не стесняйтесь писать мне!
+
+---
+
+### 🎉 Статистика и анимации:
+
+- Использование **анимированных GIF** может добавить интереса в твою страницу. Например, можно добавить анимацию, демонстрирующую код, запуск проекта или какие-то графические элементы.
+- Пример добавления анимации:
+
+```markdown
+![Animated Python](https://media.giphy.com/media/3o6Zt5K4bPPrGtmhO4/giphy.gif)
