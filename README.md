@@ -1,18 +1,18 @@
-# Привет, я **Egor Okhin** (Nell9) 👋
+# Hi, I'm **Egor Okhin** (Nell9) 👋
 
-Приветствую в моем цифровом мире! 🌌
+Welcome to my digital world! 🌌
 
-Я Egor Okhin — программист и цифровой архитектор, который создает не просто код, а интеллектуальные системы. Я использую Python, чтобы строить решения, которые меняют мир и делают его немного умнее. 🧠✨
+I'm Egor Okhin, a programmer and digital architect who creates not just code, but intelligent systems. I use Python to build solutions that change the world and make it a little smarter. 🧠✨
 
-Мой подход к программированию — это не просто следование стандартам. Я всегда ищу способ сделать каждую задачу уникальной, улучшив её с помощью асинхронности, оптимизации и инновационных идей. Продуктивность для меня — это не просто быстродействие, а создание решений, которые не только работают, но и вдохновляют. 🚀
+My approach to programming isn't just following standards. I'm always looking for ways to make each task unique, improving it with asynchronous design, optimization, and innovative ideas. For me, productivity isn't just about speed; it's about creating solutions that not only work, but also inspire. 🚀
 
-От веб-разработки до обработки данных — я стараюсь охватить как можно больше разных технологий и найти творческие пути решения задач. Каждый проект для меня — это возможность стать немного лучше и изучить новое.
+From web development to data processing, I try to embrace as many different technologies as possible and find creative ways to solve problems. Every project is an opportunity for me to become a little better and learn something new.
 
-Так что если ты тоже веришь, что программисты могут строить будущее, присоединяйся! Здесь, на GitHub, начинается наша общая цифровая реальность. 🔥
+So if you also believe that programmers can build the future, join us! Here, on GitHub, our shared digital reality begins. 🔥
 
 ---
 
-## 🚀 Навыки и технологии
+## 🚀 Skills and technologies
 
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python" /> 
   <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square&logo=c%2B%2B" /> 
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 Мои достижения
+## 📊 My achievements
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nell9&theme=dracula" alt="GitHub Stats" />
@@ -50,12 +50,12 @@
 
 ---
 
-## 💻 Проекты
+## 💻 Projects
 
 ### 1. [**Cinema Service API**](https://github.com/Nell9/great_fast_api-django_mega_project) 🎬  
-Сервис для поиска и управления контентом онлайн-кинотеатра с использованием **FastAPI** и **Django**.
+A service for searching and managing online cinema content using **FastAPI** and **Django**.
 
-**Ключевые технологии**:  
+**Key technologies**:  
 ![FastAPI Badge](https://img.shields.io/badge/FastAPI-0077B6?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![Elastic Badge](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) 
@@ -64,9 +64,9 @@
 ---
 
 ### 2. [**COVID-19 Risk Assessment**](https://github.com/Nell9/neural-network-covid-19) 🏥  
-Система для прогнозирования летального исхода у пациентов с COVID-19 на основе их анамнеза, использующая **MLP** нейронные сети.
+A system for predicting mortality in COVID-19 patients based on their medical history using **MLP** neural networks.
 
-**Ключевые технологии**:  
+**Key technologies**:  
 ![MLP Badge](https://img.shields.io/badge/MLP-1D34A1?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn Badge](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -75,9 +75,9 @@
 ---
 
 ### 3. [**Parallel Numerical Methods**](https://github.com/Nell9/mpi-method-simple-iteration) ⚡  
-Реализация метода простой итерации с использованием **MPI** для высокопроизводительных вычислений.
+Implementation of the Simple Iteration Method using **MPI** for High Performance Computing.
 
-**Ключевые технологии**:  
+**Key technologies**:  
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MPI Badge](https://img.shields.io/badge/MPI-FF69B4?style=for-the-badge&logo=python&logoColor=white)
 ![Numerical Methods Badge](https://img.shields.io/badge/Numerical%20Methods-28A745?style=for-the-badge&logo=python&logoColor=white)
@@ -85,9 +85,9 @@
 ---
 
 ### 4. [**Start Project Template**](https://github.com/Nell9/service_basic_template) 🚀  
-Базовая заготовка для Python-проекта с настроенным окружением, линтерами и форматированием кода.
+A basic Python project template with a configured environment, linters, and code formatting.
 
-**Ключевые технологии**:  
+**Key technologies**:  
 ![Python Badge](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![Poetry Badge](https://img.shields.io/badge/Poetry-103C77?style=for-the-badge&logo=poetry&logoColor=white)
 ![Black Badge](https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -96,13 +96,13 @@
 
 ---
 
-## 🎯 Моя цель
+## 🎯 My goal is to
 
-Продолжать развиваться в области программирования, решать интересные задачи и создавать полезные решения. Если вам интересно сотрудничество, не стесняйтесь писать мне!
+Continue to develop my programming skills, solve interesting problems, and create useful solutions. If you're interested in collaborating, don't hesitate to contact me!
 
 ---
 
-## 📬 Контакты
+## 📬 Contacts
 
 - **Email**: [ego0777@gmail.com](mailto:ego0777@gmail.com)
 - **Telegram**: [@err_mirror](https://twitter.com/err_mirror)
@@ -110,7 +110,7 @@
 ---
 
 <p align="center">
-  <em>Спасибо за посещение моего профиля! 🚀</em>
+  <em>Thank you for visiting my profile! 🚀</em>
 </p>
 
 ---
